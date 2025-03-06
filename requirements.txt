@@ -1,5 +1,3 @@
 django
 gunicorn
-mysqlclient
-whitenoise
-djangorestframework
+pymysql
