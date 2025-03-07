@@ -1,1 +1,1 @@
-web: cd back && gunicorn back.wsgi --log-file -
+web: gunicorn back.wsgi:application --chdir back --log-file -

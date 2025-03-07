@@ -2,3 +2,5 @@ django
 gunicorn
 pymysql
 djangorestframework
+django-cors-headers
+
